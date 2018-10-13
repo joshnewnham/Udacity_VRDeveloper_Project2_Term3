@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 0d93bded2731c4ce2ad7ef63d3db7fb4
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bottom
+    100002: Left
+    100004: Menu
+    100006: Plane
+    100008: Plane_001
+    100010: Plane_002
+    100012: Plane_003
+    100014: Right
+    100016: Top
+    100018: //RootNode
+    100020: BottomButton
+    100022: LeftButton
+    100024: RightButton
+    100026: TopButton
+    400000: Bottom
+    400002: Left
+    400004: Menu
+    400006: Plane
+    400008: Plane_001
+    400010: Plane_002
+    400012: Plane_003
+    400014: Right
+    400016: Top
+    400018: //RootNode
+    400020: BottomButton
+    400022: LeftButton
+    400024: RightButton
+    400026: TopButton
+    2100000: RightBUtton__PauseButton_png
+    2100002: RightBUtton__PlayButton_png
+    2100004: RightBUtton__RewindButton_png
+    2100006: RightBUtton__FastForwardButton_png
+    2100008: LeftPanel
+    2100010: RightPanel
+    2100012: TopPanel
+    2100014: BottomPanel
+    2300000: Bottom
+    2300002: Left
+    2300004: Plane
+    2300006: Plane_001
+    2300008: Plane_002
+    2300010: Plane_003
+    2300012: Right
+    2300014: Top
+    2300016: BottomButton
+    2300018: LeftButton
+    2300020: RightButton
+    2300022: TopButton
+    3300000: Bottom
+    3300002: Left
+    3300004: Plane
+    3300006: Plane_001
+    3300008: Plane_002
+    3300010: Plane_003
+    3300012: Right
+    3300014: Top
+    3300016: BottomButton
+    3300018: LeftButton
+    3300020: RightButton
+    3300022: TopButton
+    4300000: Plane_003
+    4300002: Plane_002
+    4300004: Plane_001
+    4300006: Plane
+    4300008: Left
+    4300010: Right
+    4300012: Top
+    4300014: Bottom
+    4300016: LeftButton
+    4300018: RightButton
+    4300020: TopButton
+    4300022: BottomButton
+    7400000: Default Take
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.8
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
