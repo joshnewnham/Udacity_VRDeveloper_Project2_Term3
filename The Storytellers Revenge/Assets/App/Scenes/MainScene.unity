@@ -270,7 +270,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: https://github.com/joshnewnham/Udacity_VRDeveloper_Project2_Term3/blob/master/The%20Storytellers%20Revenge/Assets/App/Video/Iceland%20waterfall%20tour_2.mp4?raw=true
+  m_Url: https://github.com/joshnewnham/Udacity_VRDeveloper_Project2_Term3_Video/blob/master/Iceland%20waterfall%20tour_2.mp4?raw=true
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
